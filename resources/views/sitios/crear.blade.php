@@ -56,7 +56,7 @@
                             <label style="margin-top: 10px" for="url" class="col-md-2 col-form-label text-md-right">{{ __('URL') }}</label>
 
                             <div class="col-md-10">
-                                <input style="margin-top: 10px" id="url" type="text" class="form-control" name="url" placeholder="Direccion del sitio web" autofocus>
+                                <input style="margin-top: 10px" id="url" type="text" class="form-control" name="url" placeholder="Ejemplo:https://www.google.com/webhp?hl=es-419&sa=X&ved=0ahUKEwi5qNmIw5j2AhVTTjABHVKBCugQPAgI " autofocus>
 
                                
                             </div>
